@@ -37,7 +37,7 @@ body {
   font-size: 15px;
 }
 
-.bg {
+.second-img img {
   position: absolute;
   top: 0;
   margin-top: 10px;
@@ -70,4 +70,38 @@ body {
 }
 .first-img p {
   color: #ffffff;
+}
+
+@media only screen and (max-width: 600px) {
+  .hero-section {
+    height: 40vh;
+  }
+  .first-column {
+    margin-top: 100px !important;
+  }
+  .hero-section h1 {
+    font-size: 40px;
+  }
+
+  .services-section {
+    margin-top: 100px !important;
+    height: 140vh;
+  }
+}
+
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  .hero-section {
+    height: 40vh;
+  }
+
+  .hero-section h1 {
+    font-size: 40px;
+  }
+
+  .hero-section {
+    height: 40vh;
+  }
+}
+
+@media screen and (min-width: 1024px) {
 }
