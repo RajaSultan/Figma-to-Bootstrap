@@ -55,6 +55,8 @@ body {
 
 /* hero section ended */
 
+/* services section started */
+
 .services-section {
   background-color: black;
   height: 60vh;
@@ -75,6 +77,8 @@ body {
 .first-img p {
   color: #ffffff;
 }
+
+/* services section ended */
 
 @media only screen and (max-width: 600px) {
   .hero-section {
