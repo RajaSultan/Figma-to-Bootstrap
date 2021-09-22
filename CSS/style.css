@@ -102,6 +102,6 @@ body {
     height: 40vh;
   }
 }
-
+/* desktop media query */
 @media screen and (min-width: 1024px) {
 }
