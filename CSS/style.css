@@ -23,6 +23,8 @@ body {
   border-bottom: 2px solid black;
 }
 
+/* hero section started */
+
 .hero-section {
   height: 85vh;
   width: 100%;
@@ -50,6 +52,8 @@ body {
   padding: 15px 40px;
   border-radius: 25px;
 }
+
+/* hero section ended */
 
 .services-section {
   background-color: black;
